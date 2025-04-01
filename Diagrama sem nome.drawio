@@ -81,16 +81,37 @@
         <mxCell id="yyPdrERNynJD4cHyOi7K-10" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="630" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yyPdrERNynJD4cHyOi7K-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yyPdrERNynJD4cHyOi7K-11" target="-K6gLGGmshgdH6bCZsHm-0">
+        <mxCell id="yyPdrERNynJD4cHyOi7K-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yyPdrERNynJD4cHyOi7K-16" target="yyPdrERNynJD4cHyOi7K-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPdrERNynJD4cHyOi7K-11" value="* Encontre uma lâmpada nova&lt;div&gt;* Retire da embalagem&lt;/div&gt;&lt;div&gt;* Retire a lâmpada queimada&lt;/div&gt;&lt;div&gt;* Coloque a lâmpada nova&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="148" y="674" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPdrERNynJD4cHyOi7K-13" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="161" y="1045" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPdrERNynJD4cHyOi7K-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yyPdrERNynJD4cHyOi7K-11" target="yyPdrERNynJD4cHyOi7K-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221" y="820" as="sourcePoint" />
+            <mxPoint x="221" y="943" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPdrERNynJD4cHyOi7K-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yyPdrERNynJD4cHyOi7K-16" target="-K6gLGGmshgdH6bCZsHm-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="747" />
+              <mxPoint x="100" y="938" />
               <mxPoint x="100" y="379" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yyPdrERNynJD4cHyOi7K-11" value="* Encontre uma lâmpada nova&lt;div&gt;* Retire da embalagem&lt;/div&gt;&lt;div&gt;* Retire a lâmpada queimada&lt;/div&gt;&lt;div&gt;* Coloque a lâmpada nova&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="148" y="674" width="146" height="146" as="geometry" />
+        <mxCell id="yyPdrERNynJD4cHyOi7K-16" value="A lâmpada acendeu?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="872" width="140" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPdrERNynJD4cHyOi7K-18" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="236" y="1003" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPdrERNynJD4cHyOi7K-22" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="101" y="890" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
